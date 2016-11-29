@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\cashWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\checkbox_none.png",
+        "source": "E:\\AndroidStudioProjects\\cashWidget\\app\\src\\main\\res\\drawable-mdpi\\checkbox_none.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\cashWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\checkbox_press.png",
+        "source": "E:\\AndroidStudioProjects\\cashWidget\\app\\src\\main\\res\\drawable-mdpi\\checkbox_press.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\cashWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\x_button.png",
+        "source": "E:\\AndroidStudioProjects\\cashWidget\\app\\src\\main\\res\\drawable-mdpi\\x_button.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\cashWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_button.png",
+        "source": "E:\\AndroidStudioProjects\\cashWidget\\app\\src\\main\\res\\drawable-mdpi\\login_button.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\cashWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\id_form.png",
+        "source": "E:\\AndroidStudioProjects\\cashWidget\\app\\src\\main\\res\\drawable-mdpi\\id_form.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\cashWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\signup_button.png",
+        "source": "E:\\AndroidStudioProjects\\cashWidget\\app\\src\\main\\res\\drawable-mdpi\\signup_button.png"
+    }
+]

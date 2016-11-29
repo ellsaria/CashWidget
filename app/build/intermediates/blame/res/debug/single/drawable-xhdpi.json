@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\cashWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "E:\\AndroidStudioProjects\\cashWidget\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\cashWidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_name.png",
+        "source": "E:\\AndroidStudioProjects\\cashWidget\\app\\src\\main\\res\\drawable-xhdpi\\logo_name.png"
+    }
+]
