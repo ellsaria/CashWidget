@@ -17,12 +17,6 @@ ADDED from E:\AndroidStudioProjects\cashWidget\app\src\main\AndroidManifest.xml:
 		ADDED from E:\AndroidStudioProjects\cashWidget\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from E:\AndroidStudioProjects\cashWidget\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioProjects\cashWidget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioProjects\cashWidget\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioProjects\cashWidget\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioProjects\cashWidget\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioProjects\cashWidget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from E:\AndroidStudioProjects\cashWidget\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from E:\AndroidStudioProjects\cashWidget\app\src\main\AndroidManifest.xml
@@ -33,10 +27,6 @@ MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioProjects\cas
 		INJECTED from E:\AndroidStudioProjects\cashWidget\app\src\main\AndroidManifest.xml
 application
 ADDED from E:\AndroidStudioProjects\cashWidget\app\src\main\AndroidManifest.xml:11:5-25:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] E:\AndroidStudioProjects\cashWidget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\AndroidStudioProjects\cashWidget\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\AndroidStudioProjects\cashWidget\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] E:\AndroidStudioProjects\cashWidget\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from E:\AndroidStudioProjects\cashWidget\app\src\main\AndroidManifest.xml:14:9-28
 	android:allowBackup
